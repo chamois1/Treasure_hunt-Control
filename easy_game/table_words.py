@@ -19,7 +19,7 @@ elements = [random.choice(lst) for lst in all_lists]
 while len(set(elements)) != len(elements):
     elements = [random.choice(lst) for lst in all_lists]
 
-
+# Не встиг доробити - щоб коли після знайдення, зявлялось в таблиці, а не одразу все
 
 arr = [
     [elements[0], '', '', elements[1]],
