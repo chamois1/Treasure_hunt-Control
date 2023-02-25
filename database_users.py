@@ -17,4 +17,3 @@ def end_game(new_move):
 
     print(f"Гра закінчена, вам знадобилось {new_move} ходів, щоб закінчити цю гру")
 
-end_game(10)
